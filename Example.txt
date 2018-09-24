@@ -1,0 +1,60 @@
+    [TestClass]
+    public class UnitTest1
+    {
+        [TestMethod]
+        public void TestMethod1()
+        {
+            string expected = "hello";
+            Mock<IUnitOfWork> mock = new Mock<IUnitOfWork>(MockBehavior.Strict);
+            mock.Setup(q => q.GetStudentrepo.getInfo(It.IsAny<int>())).Returns(expected);
+            Tester test = new Tester(mock.Object);
+
+            string result = test.GetAccount(2);
+            Assert.AreEqual(result, expected);
+        }
+    }
+
+    public class Tester
+    {
+        IUnitOfWork _unitOfWork;
+        public Tester(IUnitOfWork unitOfWork)
+        {
+            _unitOfWork = unitOfWork;
+        }
+
+        public string GetAccount(int id)
+        {
+            return _unitOfWork.GetStudentrepo.getInfo(2);
+        }
+
+        public string GetAccount(int id, string querysqldiary)
+        {
+            return "Hello";
+        }
+    }
+
+
+    public interface IUnitOfWork
+    {
+        Istudentrepo GetStudentrepo {get;}
+    }
+
+    public class UnitOfWork : IUnitOfWork
+    {
+        public Istudentrepo GetStudentrepo { get; }
+    }
+
+
+    public interface Istudentrepo
+    {
+        string getInfo(int id);
+    }
+
+    public class studentrepo: Istudentrepo
+    {
+
+        public string getInfo(int id)
+        {
+            throw new System.NotImplementedException();
+        }
+    }
