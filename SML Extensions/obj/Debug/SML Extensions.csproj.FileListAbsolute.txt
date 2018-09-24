@@ -1,0 +1,31 @@
+Z:\MSC\SVM\SML Extensions\bin\Debug\Sample.sml
+Z:\MSC\SVM\SML Extensions\bin\Debug\SML Extensions.dll
+Z:\MSC\SVM\SML Extensions\bin\Debug\SML Extensions.pdb
+Z:\MSC\SVM\SML Extensions\bin\Debug\SVM.exe
+Z:\MSC\SVM\SML Extensions\bin\Debug\SVM.pdb
+Z:\MSC\SVM\SML Extensions\obj\Debug\SML Extensions.csprojResolveAssemblyReference.cache
+Z:\MSC\SVM\SML Extensions\obj\Debug\SML Extensions.csproj.CoreCompileInputs.cache
+Z:\MSC\SVM\SML Extensions\obj\Debug\SML Extensions.dll
+Z:\MSC\SVM\SML Extensions\obj\Debug\SML Extensions.pdb
+C:\Temp\SVM\SML Extensions\bin\Debug\Sample.sml
+C:\Temp\SVM\SML Extensions\bin\Debug\SML Extensions.dll
+C:\Temp\SVM\SML Extensions\bin\Debug\SML Extensions.pdb
+C:\Temp\SVM\SML Extensions\bin\Debug\SVM.exe
+C:\Temp\SVM\SML Extensions\bin\Debug\SVM.pdb
+C:\Temp\SVM\SML Extensions\obj\Debug\SML Extensions.csprojResolveAssemblyReference.cache
+C:\Temp\SVM\SML Extensions\obj\Debug\SML_Extensions.Display.resources
+C:\Temp\SVM\SML Extensions\obj\Debug\SML Extensions.csproj.GenerateResource.Cache
+C:\Temp\SVM\SML Extensions\obj\Debug\SML Extensions.csproj.CoreCompileInputs.cache
+C:\Temp\SVM\SML Extensions\obj\Debug\SML Extensions.dll
+C:\Temp\SVM\SML Extensions\obj\Debug\SML Extensions.pdb
+C:\Users\JackW\Desktop\MSC\SVM\SVM\SML Extensions\bin\Debug\Sample.sml
+C:\Users\JackW\Desktop\MSC\SVM\SVM\SML Extensions\bin\Debug\SML Extensions.dll
+C:\Users\JackW\Desktop\MSC\SVM\SVM\SML Extensions\bin\Debug\SML Extensions.pdb
+C:\Users\JackW\Desktop\MSC\SVM\SVM\SML Extensions\bin\Debug\SVM.exe
+C:\Users\JackW\Desktop\MSC\SVM\SVM\SML Extensions\bin\Debug\SVM.pdb
+C:\Users\JackW\Desktop\MSC\SVM\SVM\SML Extensions\obj\Debug\SML Extensions.csprojResolveAssemblyReference.cache
+C:\Users\JackW\Desktop\MSC\SVM\SVM\SML Extensions\obj\Debug\SML_Extensions.Display.resources
+C:\Users\JackW\Desktop\MSC\SVM\SVM\SML Extensions\obj\Debug\SML Extensions.csproj.GenerateResource.Cache
+C:\Users\JackW\Desktop\MSC\SVM\SVM\SML Extensions\obj\Debug\SML Extensions.csproj.CoreCompileInputs.cache
+C:\Users\JackW\Desktop\MSC\SVM\SVM\SML Extensions\obj\Debug\SML Extensions.dll
+C:\Users\JackW\Desktop\MSC\SVM\SVM\SML Extensions\obj\Debug\SML Extensions.pdb
